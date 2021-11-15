@@ -1,20 +1,23 @@
 PRIVACY POLICY FOR FUNNY WEATHER
-LAST UPDATED: 6/28/20
+LAST UPDATED: 11/16/20
 
 This privacy policy governs the use/collection of your data by FUNNY WEATHER; henceforth referred to as the "Application." This application was developed by EPSILON VENTURES LLC. By using this application you consent to allow EPSILON VENTURES to use your information according to this Privacy Policy.
 
 - INFORMATION YOU VOLUNTARILY GIVE US
 * Location search info
-When you enter information into the location search page, that info is sent to GOOGLE or APPLE in order to translate your info into coordinates.
+When you enter information into the location search page, that info is sent to GOOGLE and MAPBOX in order to translate your info into coordinates.
 
 - LOCATION DATA
 The application may collect fine location data in order to function. The application may collect your location data while open & in the background. We share your location information with responsible third-parties in order to service your requests.
 	* DARK SKY - https://darksky.net/dev/docs/privacy
 	We share your fine location data (namely latitude & longitude) with DARK SKY in order to provide you with accurate weather reports. 
 	* APPLE - https://www.apple.com/legal/privacy/en-ww/
-	We share your fine location data (namely latitude & longitude) with APPLE in order to determine your locality (city) to improve your user experience. We also share city info that you enter with APPLE in order to determine its coordinates. 
+	We share your fine location data (namely latitude & longitude) with APPLE in order to determine your locality (city) to improve your user experience. 
 	* GOOGLE - https://www.google.com/intl/en/policies/privacy/
 	We share your fine location data (namely latitude & longitude) with GOOGLE in order to determine your locality (city) to improve your user experience. We also share city info that you enter with GOOGLE in order to determine its coordinates.
+    * MAPBOX - https://www.mapbox.com/legal/privacy/
+	We share what you enter into the location search with MAPBOX in order to translate your query into a latitude & longitude.
+These 3rd-parties may collect other device-related info & identifiers during the course of your request, according to their Privacy Policies.
 
 - OTHER INFORMATION WE COLLECT AUTOMATICALLY
 This application may collect information automatically.
@@ -28,6 +31,11 @@ The 3rd-Parties that we share information with & their privacy policies are list
    * GOOGLE ADMOB - https://www.google.com/intl/en/policies/privacy/
    AdMob uses this data in order to deliver advertisements to users. Google may use device info, IP, and identifiers (namely, the Ad Identifier) in order to delive advertising. Upon opt-in to targeted advertising, this information may be combined with existing Google information in order to deliver targeted advertising. If you do not opt-in to targeted advertising, Google will not deliver advertisements targeted to you.
    More information can be obtained by visiting their privacy policy.
+   * DARK SKY - https://darksky.net/dev/docs/privacy (see LOCATION DATA)
+   * APPLE - https://www.apple.com/legal/privacy/en-ww/ (see LOCATION DATA)
+   * GOOGLE - https://www.google.com/intl/en/policies/privacy/ (see LOCATION DATA)
+   * MAPBOX - https://www.mapbox.com/legal/privacy/ (see LOCATION DATA)
+These 3rd-parties may collect other device-related info & identifiers during the course of your request, according to their Privacy Policies.
 
 - CHILDREN
 This application is not targeted to children under the age of 13. 
