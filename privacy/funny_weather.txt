@@ -1,11 +1,13 @@
 PRIVACY POLICY FOR FUNNY WEATHER
-LAST UPDATED: 11/16/20
+LAST UPDATED: 7/12/25
 
 This privacy policy governs the use/collection of your data by FUNNY WEATHER; henceforth referred to as the "Application." This application was developed by EPSILON VENTURES LLC. By using this application you consent to allow EPSILON VENTURES to use your information according to this Privacy Policy.
 
 - INFORMATION YOU VOLUNTARILY GIVE US
 * Location search info
 When you enter information into the location search page, that info is sent to GOOGLE and MAPBOX in order to translate your info into coordinates.
+* Phrases
+We store your submitted phrases & liked phrases in order to provide user functionality experience. We associate this data with the FIREBASE account that gets created when you run the application.
 
 - LOCATION DATA
 The application may collect fine location data in order to function. The application may collect your location data while open & in the background. We share your location information with responsible third-parties in order to service your requests.
@@ -21,8 +23,10 @@ These 3rd-parties may collect other device-related info & identifiers during the
 
 - OTHER INFORMATION WE COLLECT AUTOMATICALLY
 This application may collect information automatically.
-This information is collected for two main purposes: advertising and analytics, both covered under the GDPR legitimate interest basis for processing.
+This information is collected for two main purposes: advertising and analytics, both covered under the GDPR legitimate interest basis for processing. Other information may be used in order to deliver you notifications upon your consent.
 This includes information such as: device information, display settings, IP address, general geographic location (via IP address), wifi networks, operating system, device settings, device state (battery level, carrier, locale), application ids, install referrers, unique identifiers & device identifiers (such as Advertising ID), crash data, and information about how you use the application.
+
+When you download the application we'll also create a user account to store your submitted & liked phrases. We use FIREBASE to manage account sign in.
 
 - INFORMATION WE SHARE WITH 3RD-PARTIES
 We share the data listed above with responsible 3rd parties in order to take advantage of services such as advertising & application analytics.
@@ -35,7 +39,9 @@ The 3rd-Parties that we share information with & their privacy policies are list
    * APPLE - https://www.apple.com/legal/privacy/en-ww/ (see LOCATION DATA)
    * GOOGLE - https://www.google.com/intl/en/policies/privacy/ (see LOCATION DATA)
    * MAPBOX - https://www.mapbox.com/legal/privacy/ (see LOCATION DATA)
-These 3rd-parties may collect other device-related info & identifiers during the course of your request, according to their Privacy Policies.
+   * GOOGLE FIREBASE - https://firebase.google.com/support/privacy
+
+These 3rd-parties may collect other device-related info & identifiers during the course of your request, according to their Privacy Policies. Firebase uses this data in order to provide crash reporting, user signin, user analytics, and push notifications. They mainly use various UUIDs to identify devices, IP address, user agents, and record device metadata in order to provide detailed crash reports. You can see the other metadata they obtain via their privacy policy above.
 
 - CHILDREN
 This application is not targeted to children under the age of 13. 
